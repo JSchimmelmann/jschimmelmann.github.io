@@ -40,7 +40,7 @@ jobs:
           cache: pnpm # or pnpm / yarn
       - name: Replace in files
         run: |
-          sed -rie 's/\://g;s/([a-z][0-9]\w+)/\source\/resources\/&.png/g' source/_posts/*.md
+          sed -rie 's/\://;s/([a-z][0-9]\w+)/\source\/resources\/&.png/' source/_posts/*.md
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Install dependencies
