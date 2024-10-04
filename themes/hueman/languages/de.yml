@@ -1,0 +1,44 @@
+index:
+    home: 'Home'
+    about: 'Über'
+    search: 'Suche'
+    archive: 'Archiv'
+    category: 'Kategorien'
+    uncategorized: 'nicht kategorisiert'
+    tag: 'Tag'
+nav:
+    current_page:
+        other: 'Seite %d '
+    total_page:
+        other: 'von %d'
+sidebar:
+    follow: 'folgen'
+    newer: 'neuer'
+    older: 'älter'
+    recents: 'Aktuell'
+    sticky: 'beliebt'
+    archives: 'Archive'
+    categories: 'Kategorien'
+    links: 'Links'
+    tags: 'Tags'
+    tag_cloud: 'Tag-Wolke'
+    catalogue: 'Katalog'
+article:
+    comments: 'Kommentare'
+    share: 'Teilen'
+insight:
+    hint: 'Tippe etwas...'
+    posts: 'Posts'
+    pages: 'Seiten'
+    categories: 'Kategorien'
+    tags: 'Tags'
+    untitled: '(Unbenannt)'
+counter:
+    views: Views
+    count: Anzahl der Symbole im Artikel
+    count_total: Gesamtanzahl der Symbole
+    time: Lesezeit
+    time_total: Gesamtlesezeit
+    time_minutes: min.
+adsense:
+    sponsored: Gesponsert von
